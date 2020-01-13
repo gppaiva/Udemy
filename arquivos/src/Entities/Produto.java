@@ -1,4 +1,4 @@
-package arquivos;
+package Entities;
 
 public class Produto {
 	
